@@ -4,7 +4,7 @@ email:
 description: Een landingspagina voor de ProximiTreats mobiele app, waarmee gebruikers op de hoogte blijven van hun favoriete mobiele verkopers.
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "https://jekynewage.github.io" # the base hostname & protocol for your site
+url: "https://proximitreats.com" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 
