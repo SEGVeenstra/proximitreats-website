@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.proximitreats.app",
+            "sha256_cert_fingerprints": [
+                "D0:98:49:A9:77:DF:27:53:E5:81:0F:65:46:2E:D7:E3:9E:EA:E9:40:7A:24:8B:A6:05:A1:96:40:06:CD:67:10"
+            ]
+        }
+    }
+]
