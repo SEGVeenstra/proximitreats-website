@@ -1,7 +1,7 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
+title: ProximiTreats | Blijf op de hoogte van uw favoriete mobiele verkopers!
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: Een landingspagina voor de ProximiTreats mobiele app, waarmee gebruikers op de hoogte blijven van hun favoriete mobiele verkopers.
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://jekynewage.github.io" # the base hostname & protocol for your site
