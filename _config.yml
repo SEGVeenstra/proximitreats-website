@@ -31,10 +31,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 # paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","vendor","bundle"]
 include:
   - .well-known
   - CNAME
 
-gems: [jekyll-paginate, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-feed]
 # Build settings
