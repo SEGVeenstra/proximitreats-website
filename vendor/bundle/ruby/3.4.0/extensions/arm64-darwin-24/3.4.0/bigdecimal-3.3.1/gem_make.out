@@ -20,10 +20,10 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: /Users/segveenstra/Projects/proximitreats-website/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.3.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20251118-8531-kp2h0m sitelibdir\=./.gem.20251118-8531-kp2h0m clean
+make DESTDIR\= sitearchdir\=./.gem.20251120-56128-3ydcyb sitelibdir\=./.gem.20251120-56128-3ydcyb clean
 
 current directory: /Users/segveenstra/Projects/proximitreats-website/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.3.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20251118-8531-kp2h0m sitelibdir\=./.gem.20251118-8531-kp2h0m
+make DESTDIR\= sitearchdir\=./.gem.20251120-56128-3ydcyb sitelibdir\=./.gem.20251120-56128-3ydcyb
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.bundle
@@ -31,8 +31,8 @@ ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.5.0/lib' not found
 ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.5.0/lib' not found
 
 current directory: /Users/segveenstra/Projects/proximitreats-website/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.3.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20251118-8531-kp2h0m sitelibdir\=./.gem.20251118-8531-kp2h0m install
-/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20251118-8531-kp2h0m
+make DESTDIR\= sitearchdir\=./.gem.20251120-56128-3ydcyb sitelibdir\=./.gem.20251120-56128-3ydcyb install
+/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20251120-56128-3ydcyb
 
 current directory: /Users/segveenstra/Projects/proximitreats-website/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.3.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20251118-8531-kp2h0m sitelibdir\=./.gem.20251118-8531-kp2h0m clean
+make DESTDIR\= sitearchdir\=./.gem.20251120-56128-3ydcyb sitelibdir\=./.gem.20251120-56128-3ydcyb clean

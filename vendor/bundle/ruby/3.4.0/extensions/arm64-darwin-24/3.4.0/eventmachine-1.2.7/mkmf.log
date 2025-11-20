@@ -150,7 +150,7 @@ ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.5.0/lib' not found
 Undefined symbols for architecture arm64:
   "_rb_thread_blocking_region", referenced from:
-      _t in conftest-fc5dab.o
+      _t in conftest-169e85.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -321,7 +321,7 @@ ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.5.0/lib' not found
 Undefined symbols for architecture arm64:
   "_rb_enable_interrupt", referenced from:
-      _t in conftest-e78abd.o
+      _t in conftest-bb2d60.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -508,7 +508,7 @@ ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.5.0/lib' not found
 Undefined symbols for architecture arm64:
   "_pipe2", referenced from:
-      _t in conftest-030c86.o
+      _t in conftest-27004c.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -566,7 +566,7 @@ ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
 ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.5.0/lib' not found
 Undefined symbols for architecture arm64:
   "_accept4", referenced from:
-      _t in conftest-0d1a89.o
+      _t in conftest-3f8064.o
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

@@ -3,10 +3,10 @@ current directory: /Users/segveenstra/Projects/proximitreats-website/vendor/bund
 creating Makefile
 
 current directory: /Users/segveenstra/Projects/proximitreats-website/vendor/bundle/ruby/3.4.0/gems/eventmachine-1.2.7/ext/fastfilereader
-make DESTDIR\= sitearchdir\=./.gem.20251118-8531-434pve sitelibdir\=./.gem.20251118-8531-434pve clean
+make DESTDIR\= sitearchdir\=./.gem.20251120-56128-1yvsxs sitelibdir\=./.gem.20251120-56128-1yvsxs clean
 
 current directory: /Users/segveenstra/Projects/proximitreats-website/vendor/bundle/ruby/3.4.0/gems/eventmachine-1.2.7/ext/fastfilereader
-make DESTDIR\= sitearchdir\=./.gem.20251118-8531-434pve sitelibdir\=./.gem.20251118-8531-434pve
+make DESTDIR\= sitearchdir\=./.gem.20251120-56128-1yvsxs sitelibdir\=./.gem.20251120-56128-1yvsxs
 compiling mapper.cpp
 compiling rubymain.cpp
 rubymain.cpp:53:12: warning: 'rb_data_object_wrap_warning' is deprecated: by TypedData [-Wdeprecated-declarations]
@@ -219,8 +219,8 @@ ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.5.0/lib' not found
 ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.5.0/lib' not found
 
 current directory: /Users/segveenstra/Projects/proximitreats-website/vendor/bundle/ruby/3.4.0/gems/eventmachine-1.2.7/ext/fastfilereader
-make DESTDIR\= sitearchdir\=./.gem.20251118-8531-434pve sitelibdir\=./.gem.20251118-8531-434pve install
-/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20251118-8531-434pve
+make DESTDIR\= sitearchdir\=./.gem.20251120-56128-1yvsxs sitelibdir\=./.gem.20251120-56128-1yvsxs install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20251120-56128-1yvsxs
 
 current directory: /Users/segveenstra/Projects/proximitreats-website/vendor/bundle/ruby/3.4.0/gems/eventmachine-1.2.7/ext/fastfilereader
-make DESTDIR\= sitearchdir\=./.gem.20251118-8531-434pve sitelibdir\=./.gem.20251118-8531-434pve clean
+make DESTDIR\= sitearchdir\=./.gem.20251120-56128-1yvsxs sitelibdir\=./.gem.20251120-56128-1yvsxs clean
