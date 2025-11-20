@@ -1,0 +1,43 @@
+---
+permalink: /404.html
+---
+<!DOCTYPE html>
+<html lang="nl">
+
+{% include head.html %}
+
+<body id="page-top">
+    {% include nav-404.html %}
+
+    <section class="download bg-primary text-center"
+        style="min-height: 100vh; display: flex; align-items: center; padding-top: 100px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h1 class="section-heading" style="font-size: 72px; margin-bottom: 30px;">🔍</h1>
+                    <h2 class="section-heading">Deze pagina bestaat niet</h2>
+                    <p style="font-size: 20px; margin-bottom: 30px;">
+                        Het lijkt erop dat je een link hebt geopend die bedoeld is voor de ProximiTreats app.
+                    </p>
+                    <p style="font-size: 18px; margin-bottom: 40px;">
+                        Download de app om winkels te bekijken en meldingen te ontvangen wanneer je favoriete mobiele
+                        verkopers in de buurt zijn!
+                    </p>
+                    <div class="badges">
+                        <a class="badge-link" href="#"><img src="/img/google-play-badge.svg"
+                                alt="Download op Google Play"></a>
+                        <a class="badge-link" href="#"><img src="/img/app-store-badge.svg"
+                                alt="Download in de App Store"></a>
+                    </div>
+                    <p style="margin-top: 40px;">
+                        <a href="/" style="color: white; text-decoration: underline;">Terug naar de hoofdpagina</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {% include scripts.html %}
+</body>
+
+</html>
