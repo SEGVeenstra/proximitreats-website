@@ -34,14 +34,13 @@
 // }
 
 // variables.less link and gradient background
-$head-primary: #7b4397 ;
-$head-secondary: #dc2430 ;
-$theme-primary: #fdcc52 ;
-$theme-secondary: #fdc539 ;
+$head-primary: #5a2a6e;
+$head-secondary: #dc2430;
+$theme-primary: #F49949;
+$theme-secondary: #CE2741;
 $theme-dark: #222;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "mixins",
-        "base"
+@import "mixins",
+"base"
 ;
