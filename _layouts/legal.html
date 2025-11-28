@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav-404.html %}
+  <section id="legal" style="padding: 120px 0 60px 0;">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-lg-offset-1 col-md-12">
+          {% if page.title %}
+          <h1 style="margin-top:0; margin-bottom: 24px;">{{ page.title }}</h1>
+          {% endif %}
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </section>
+  {% include scripts.html %}
+</body>
+
+</html>
